@@ -1,0 +1,28 @@
+header{
+    padding: 20px;
+    margin: 20px;
+    text-align: right;
+}
+
+/* puts timer on right side of header */
+#timer{
+    float: right;
+}
+
+
+/* aligning and hiding content */
+#intro{
+    text-align: center;
+    
+}
+
+#content{
+    padding: 30px;
+    text-align: center;
+    display: none;
+}
+
+#container{
+    text-align: center;
+    display: none;
+}
